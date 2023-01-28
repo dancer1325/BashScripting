@@ -3,6 +3,10 @@ Openwebinars course about bash scripting
 
 ## Structure
 * Different scripts done through the course
+  * script1.sh
+    * Section 1
+  * script2.sh
+    * Section 2
 
 ## How to execute?
 * `./ScriptName`
