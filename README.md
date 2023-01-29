@@ -19,6 +19,7 @@ Openwebinars course about bash scripting
   * Section4  
     * while.sh
     * for.sh
+    * case.sh
 
 
 
