@@ -10,6 +10,9 @@ Openwebinars course about bash scripting
     * stringandnumber.sh
     * syntax.sh
     * challenge1.sh
+  * Section3
+    * firstInput.sh  
+
 
 ## How to execute?
 * `./ScriptName`
