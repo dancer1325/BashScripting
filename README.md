@@ -20,6 +20,7 @@ Openwebinars course about bash scripting
     * while.sh
     * for.sh
     * case.sh
+    * challenge3.sh
 
 
 
