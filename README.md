@@ -26,5 +26,14 @@ Openwebinars course about bash scripting
 * Not mandatory to indicate the file extension ".sh", but it's a good practice.
 * `#!/bin/bash`
     * Invoke bash interpreter
+* `sh -x ScriptName`  / `bash -x ScriptName`
+  * Launch a script with traces about all the process
+    * "+ ..." === code line which it's executing
+* `sh -n ScriptName`  / `bash -n ScriptName`
+  * Check script's syntax
+    * If no output is got === no syntax errors
 * Reference links
   * https://tldp.org/
+    * Main documentation
+  * https://www.shellcheck.net/
+    * Online tool to check your scripts

@@ -1,6 +1,10 @@
 #!/bin/bash
 # Previous line is to call to bash interpreter
 
+# Detect syntax errors
+# It can stop script execution
+# set -u 
+
 number1=1
 number2=2
 
