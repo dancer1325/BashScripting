@@ -16,6 +16,9 @@ Openwebinars course about bash scripting
     * read.sh
     * allKindOfInputs.sh
     * challenge2.sh
+  * Section4  
+    * while.sh
+
 
 
 ## How to execute?
@@ -54,3 +57,5 @@ Openwebinars course about bash scripting
     * Main documentation
   * https://www.shellcheck.net/
     * Online tool to check your scripts
+  * https://ss64.com/osx/
+    * Key MacOS terminal commands
