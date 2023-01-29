@@ -12,7 +12,7 @@ Openwebinars course about bash scripting
     * challenge1.sh
   * Section3
     * firstInput.sh  
-    * inputs.sh
+    * inputsPassedAsArguments.sh
     * read.sh
 
 
