@@ -14,6 +14,7 @@ Openwebinars course about bash scripting
     * firstInput.sh  
     * inputsPassedAsArguments.sh
     * read.sh
+    * allKindOfInputs.sh
 
 
 ## How to execute?
