@@ -17,7 +17,7 @@ Openwebinars course about bash scripting
     * `chmod 750 NameOfTheScript` gives read / write/ execute rights to the owner's script
     * `chmod 111 NameOfTheScript` gives execute rights to the owner's script
 * `AbsolutePath./ScriptName`
-* `bash AbsoluteOrRelativePathToTheBashScript` / `sh AbsoluteOrRelativePathToTheBashScript`
+* `bash AbsoluteOrRelativePathToTheBashScript` / `sh AbsoluteOrRelativePathToTheBashScript` / `source AbsoluteOrRelativePathToTheBashScript`
 * Place the script in special directories & `ScriptName` in any path
   * usr/local/bin
   * usr/bin 
