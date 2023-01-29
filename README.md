@@ -12,18 +12,28 @@ Openwebinars course about bash scripting
     * challenge1.sh
   * Section3
     * firstInput.sh  
+    * inputs.sh
 
 
 ## How to execute?
-* `./ScriptName`
-  * If you get "zsh: permission denid" -->
-    * `chmod 750 NameOfTheScript` gives read / write/ execute rights to the owner's script
-    * `chmod 111 NameOfTheScript` gives execute rights to the owner's script
-* `AbsolutePath./ScriptName`
-* `bash AbsoluteOrRelativePathToTheBashScript` / `sh AbsoluteOrRelativePathToTheBashScript` / `source AbsoluteOrRelativePathToTheBashScript`
-* Place the script in special directories & `ScriptName` in any path
-  * usr/local/bin
-  * usr/bin 
+* Without inputs
+  * `./ScriptName`
+    * If you get "zsh: permission denid" -->
+      * `chmod 750 NameOfTheScript` gives read / write/ execute rights to the owner's script
+      * `chmod 111 NameOfTheScript` gives execute rights to the owner's script
+  * `AbsolutePath./ScriptName`
+  * `bash AbsoluteOrRelativePathToTheBashScript` / `sh AbsoluteOrRelativePathToTheBashScript` / `source AbsoluteOrRelativePathToTheBashScript`
+  * Place the script in special directories & `ScriptName` in any path
+    * usr/local/bin
+    * usr/bin 
+* With inputs
+  * `SomeOfThePreviousOptions Input1 Input2 ....`
+    * Input0
+      * For all script's command executors, except to `source` 
+        * ScriptName
+      * For `source` 
+        * bash
+
 
 
 ## Note:
