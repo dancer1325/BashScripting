@@ -9,6 +9,7 @@ Openwebinars course about bash scripting
     * lists.sh
     * stringandnumber.sh
     * syntax.sh
+    * challenge1.sh
 
 ## How to execute?
 * `./ScriptName`
