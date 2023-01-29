@@ -17,6 +17,7 @@ echo "list[5]: " ${list[5]}                         # Get just the sixth element
 echo "list[6]: " ${list[6]}                         # Get just the seventh element
 echo "list[9]: " ${list[9]}                         # Get non existing element in the list
 echo "list's elements: " ${list[*]}                 # Get all list's elements
+echo "list's elements: " ${list[@]}                 # Get all list's elements, but without interpolation
 echo "list's number of elements: " ${#list[*]}      # Get number of elements in the list
 echo "list's first element length: " ${#list[0]}    # Get first element's length
 

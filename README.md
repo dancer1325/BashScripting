@@ -18,6 +18,7 @@ Openwebinars course about bash scripting
     * challenge2.sh
   * Section4  
     * while.sh
+    * for.sh
 
 
 
