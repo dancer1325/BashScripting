@@ -13,6 +13,7 @@ Openwebinars course about bash scripting
   * Section3
     * firstInput.sh  
     * inputs.sh
+    * read.sh
 
 
 ## How to execute?
