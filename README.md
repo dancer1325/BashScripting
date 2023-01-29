@@ -15,6 +15,7 @@ Openwebinars course about bash scripting
     * inputsPassedAsArguments.sh
     * read.sh
     * allKindOfInputs.sh
+    * challenge2.sh
 
 
 ## How to execute?
