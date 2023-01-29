@@ -8,6 +8,7 @@ Openwebinars course about bash scripting
   * Section 2
     * lists.sh
     * stringandnumber.sh
+    * syntax.sh
 
 ## How to execute?
 * `./ScriptName`
@@ -25,3 +26,5 @@ Openwebinars course about bash scripting
 * Not mandatory to indicate the file extension ".sh", but it's a good practice.
 * `#!/bin/bash`
     * Invoke bash interpreter
+* Reference links
+  * https://tldp.org/
