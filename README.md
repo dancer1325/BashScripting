@@ -25,6 +25,14 @@ Openwebinars course about bash scripting
     * readfile1.sh  
     * readfile2.sh  
     * challenge4.sh
+  * Exam
+    * question1.sh
+    * question2.sh
+    * question3.sh 
+    * question4.sh
+    * question5.sh 
+    * question6.sh
+    * question7.sh 
 
 
 
