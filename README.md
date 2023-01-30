@@ -21,6 +21,11 @@ Openwebinars course about bash scripting
     * for.sh
     * case.sh
     * challenge3.sh
+  * Section5
+    * readfile1.sh  
+    * readfile2.sh  
+    * challenge4.sh
+
 
 
 
